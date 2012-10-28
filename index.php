@@ -125,9 +125,9 @@
 <?php
 position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/13",'
 <ul>
-<li><span style="font-weight: bold">Honors:</span> AP Scholar, Honor Roll</li>
+<li><span style="font-weight: bold">Academic Honors:</span> AP Scholar, Honor Roll</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Elements of Digital Systems, Data Structures, Web Design, Database Design</li>
-<li><span style="font-weight: bold">Activities:</span> Technology Club, Thinkering Group, Student Council, Robotics Team, Swimming&amp;Diving Team</li>
+<li><span style="font-weight: bold">Activities/Sports:</span> Technology Club, Thinkering Group, Student Council, Robotics Team, Swimming&amp;Diving Team</li>
 </ul>',"");
 
 ?>
@@ -278,7 +278,7 @@ iprogram('Linux/UNIX System Administration','40');
 	extra('Awards','First Place in Microsoft Bliink Web Design Contest (IL division)<br />Second Place in CPS Capstone Fair<br />PTC Design Award and Judges Award at 2011 Illinois FTC Robotics Competition');
 	extra('Language','Basic Japanese');
 	extra('Organizations','FreeGeek Chicago');
-	extra('Interests','Aviation<br />Startups<br />Design<br />Startups');
+	extra('Interests','Aviation<br />Startups<br />Design<br />Swimming');
 	
 	?>
 	</div>
