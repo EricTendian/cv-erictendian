@@ -147,50 +147,50 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 
     position("ExT Web Solutions","Chicago, IL","Founder","4/12-Present",'
 	<ul>
-	<li></li>
+	<li>Bacon ipsum dolor sit amet short ribs turducken turkey, beef ball tip andouille tail spare ribs biltong ham leberkas tri-tip salami tongue jowl.</li>
 	</ul>',"http://extweb.tk");
 
 
 	position("Northside College Prep","Chicago, IL","Web Developer and Technician","6/12-Present",'
 	<ul>
-	<li></li>
-	<li></li>
+	<li>Frankfurter ground round bresaola jowl beef ribs, venison swine pork chop pork loin shankle bacon drumstick. </li>
+	<li>Pancetta pork ham hock salami pork belly ribeye strip steak turducken sausage pig brisket venison.</li>
 	</ul>','http://northsideprep.org');
 	
 	position("Jokes4Miles","Chicago, IL","IT Consultant","5/12-Present",'
 	<ul>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Filet mignon ball tip meatball bacon boudin turducken venison pork belly pig capicola rump ham hock.</li>
+	<li>Tenderloin jerky ham hock, fatback meatloaf tongue brisket shoulder ribeye pork belly.</li>
+	<li>Brisket beef kielbasa pig prosciutto leberkas jerky turducken ground round andouille.</li>
 	</ul>', "http://jokes4miles.com");
 
 	position("YSFlight Headquarters","New York, NY","Webmaster/Web Developer","1/11-Present",'
 	<ul>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Hamburger pastrami turkey bresaola. Tail tenderloin beef bacon t-bone pork loin tongue hamburger sausage beef ribs corned beef swine shoulder.</li>
+	<li>Chuck biltong doner, ham hock jerky brisket rump ham strip steak.</li>
+	<li>Tail bacon corned beef meatball biltong beef ribs.</li>
 	</ul>',"http://ysfhq.com");
 	
 
 	position("Project ARC","Chicago, IL","Webmaster","10/11-Present",'
 	<ul>
-	<li>blah blah</li>
-	<li>blah blah</li>
+	<li>Pancetta shankle pig leberkas pork loin spare ribs pork belly pork chop shank flank boudin.</li>
+	<li>Kielbasa turkey shoulder filet mignon bresaola t-bone meatball bacon corned beef ribeye.</li>
 	</ul>',"http://arcnp.org");
 	
 	
 	position("Northside College Prep Tech<sup>2</sup>","Chicago, IL","Founder and President","3/11-Present",'
 	<ul>
-	<li></li>
-	<li></li>
+	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
+	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
 	</ul>',"http://ncptech.co.cc");
 	
 	
 	position("CookItFor.Us","Chicago, IL","Intern","6/11-9/11",'
 	<ul>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Ground round pork belly turducken leberkas corned beef pork cow ribeye chicken venison tenderloin meatball beef jowl boudin.</li>
+	<li>Swine bresaola ribeye shankle, turducken turkey pastrami short loin venison cow short ribs prosciutto doner.</li>
+	<li>Turducken venison meatball, shoulder tenderloin frankfurter kielbasa pig sirloin pastrami.</li>
 	</ul>',"http://cookitfor.us");
 	
 	
@@ -199,8 +199,8 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	
    	position("Indo-American Center","Chicago, IL","Tutor","7/10-10/11",'
 	<ul>
-	<li></li>
-	<li></li>
+	<li>Fatback pastrami short loin leberkas swine, jowl pig hamburger tri-tip jerky ribeye tail.</li>
+	<li>Ground round corned beef kielbasa salami chuck.</li>
 	</ul>',"");
 
 
@@ -241,11 +241,12 @@ iprogram('Linux/UNIX System Administration','40');
 		<hr />
 		<ul>
 		<?php
-			project('BeachBuddy','http://www.foodtrucksnearme.com','');
-			project('','','http://github.com/philipithomas/diffusion');
-			project('CSE131 Java','','https://github.com/philipithomas/cse131Java');
-			project('Curriculum Vitae','','https://github.com/philipithomas/cv-philipithomas');
-			project('Kill The Landline','http://killthelandline.com','');
+			project('EcoMillion','#','http://github.com/erict15/whoops');
+			project('YSChat','','http://github.com/erict15/whoops');
+			project('Java Game of Life','','http://github.com/erict15/whoops');
+			project('CS331 Data Structures','','https://github.com/erict15/cs331');
+			project('Curriculum Vitae','#','https://github.com/erict15/cv-erictendian');
+			project('Tech Squared','http://et15.co.cc','');
 		?>
 		</ul>
 		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/erict15">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
