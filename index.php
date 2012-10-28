@@ -179,7 +179,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	</ul>',"http://www.arcnp.org");
 	
 	
-	position("Tech<sup>2</sup>at Northside College Prep","Chicago, IL","Founder and President","3/11-Present",'
+	position("Tech<sup>2</sup> at Northside College Prep","Chicago, IL","Founder and President","3/11-Present",'
 	<ul>
 	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
 	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
@@ -194,7 +194,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	</ul>',"http://cookitfor.us");
 	
 	
-	position("Northside College Prep","Chicago, IL","IT Technician","4/11-5/12","","");
+	position("CPS TechCrew at Northside College Prep","Chicago, IL","IT Technician","4/11-5/12","","");
 	
 	
    	position("Indo-American Center","Chicago, IL","Tutor","7/10-10/11",'
@@ -242,8 +242,8 @@ iprogram('Linux/UNIX System Administration','40');
 		<ul>
 		<?php
 			project('EcoMillion','#','');
-			project('YSChat','','http://github.com/erict15/whoops');
-			project('Java Game of Life','','http://github.com/erict15/whoops');
+			project('YSChat','','https://github.com/erict15/whoops');
+			project('Java Game of Life','','https://github.com/erict15/whoops');
 			project('CS331 Data Structures','','https://github.com/erict15/cs331');
 			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/erict15/cv-erictendian');
 			project('Tech Squared','http://et15.co.cc','');
