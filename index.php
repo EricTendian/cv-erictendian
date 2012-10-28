@@ -42,7 +42,7 @@
   </head>
 
 <body class="preview" data-spy="scroll" data-target=".subnav" data-offset="80">
-<!--
+
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -61,25 +61,25 @@
             <div class="nav-collapse collapse pull-right">
             <ul class="nav">
               <li><a href="http://et15.co.cc" target="_blank>">Homepage</a></li>
-              <li class="dropdown ">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            Links <i class="caret"></i>
-                            </a>
-
-                   <ul class="dropdown-menu ">
-                                <li><a href="http://linkedin.com/in/erictendian" target="_blank">LinkedIn</a></li>
-                <li><a href="http://github.com/erict15" target="_blank">Github</a></li>
-                <li><a href="http://twitter.com/erict15" target="_blank"><i class="icon-off"></i> Sign Out</a></li>
-            </ul>
-               </li>
-              <li><a href="/resume.pdf">Download PDF</a></li>          
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                  Links <i class="caret"></i>
+                </a>
+				
+                <ul class="dropdown-menu">
+                  <li><a href="http://linkedin.com/in/erictendian" target="_blank">LinkedIn</a></li>
+                  <li><a href="http://github.com/erict15" target="_blank">Github</a></li>
+                  <li><a href="http://twitter.com/erict15" target="_blank">Twitter</a></li>
+                </ul>
+              </li>
+              <li><a href="resume.pdf">Download PDF</a></li>          
             </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
--->
+
     <div class="container">
 	
 	<header class="jumbotron">
@@ -92,7 +92,7 @@
 	<span class="" style="text-align: center;"> 
 		<address>
 		<a href="http://et15.co.cc" target="_blank">et15.co.cc</a><br />
-		<a href="mailto:#">erictendian@gmail.com</a><br />
+		<a href="mailto:erictendian@gmail.com">erictendian@gmail.com</a><br />
 		<a>312.476.9235</a>
 		</address>
 	</span>
