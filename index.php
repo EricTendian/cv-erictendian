@@ -162,7 +162,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	<li>Filet mignon ball tip meatball bacon boudin turducken venison pork belly pig capicola rump ham hock.</li>
 	<li>Tenderloin jerky ham hock, fatback meatloaf tongue brisket shoulder ribeye pork belly.</li>
 	<li>Brisket beef kielbasa pig prosciutto leberkas jerky turducken ground round andouille.</li>
-	</ul>', "http://jokes4miles.com");
+	</ul>', "http://www.jokes4miles.com");
 
 	position("YSFlight Headquarters","New York, NY","Webmaster/Web Developer","1/11-Present",'
 	<ul>
@@ -176,10 +176,10 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	<ul>
 	<li>Pancetta shankle pig leberkas pork loin spare ribs pork belly pork chop shank flank boudin.</li>
 	<li>Kielbasa turkey shoulder filet mignon bresaola t-bone meatball bacon corned beef ribeye.</li>
-	</ul>',"http://arcnp.org");
+	</ul>',"http://www.arcnp.org");
 	
 	
-	position("Northside College Prep Tech<sup>2</sup>","Chicago, IL","Founder and President","3/11-Present",'
+	position("Tech<sup>2</sup>at Northside College Prep","Chicago, IL","Founder and President","3/11-Present",'
 	<ul>
 	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
 	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
@@ -201,7 +201,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	<ul>
 	<li>Fatback pastrami short loin leberkas swine, jowl pig hamburger tri-tip jerky ribeye tail.</li>
 	<li>Ground round corned beef kielbasa salami chuck.</li>
-	</ul>',"");
+	</ul>',"http://www.indoamerican.org");
 
 
            ?>
@@ -241,11 +241,11 @@ iprogram('Linux/UNIX System Administration','40');
 		<hr />
 		<ul>
 		<?php
-			project('EcoMillion','#','http://github.com/erict15/whoops');
+			project('EcoMillion','#','');
 			project('YSChat','','http://github.com/erict15/whoops');
 			project('Java Game of Life','','http://github.com/erict15/whoops');
 			project('CS331 Data Structures','','https://github.com/erict15/cs331');
-			project('Curriculum Vitae','#','https://github.com/erict15/cv-erictendian');
+			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/erict15/cv-erictendian');
 			project('Tech Squared','http://et15.co.cc','');
 		?>
 		</ul>
