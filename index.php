@@ -127,7 +127,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 <ul>
 <li><span style="font-weight: bold">Honors:</span> AP Scholar, Honor Roll</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Elements of Digital Systems, Data Structures, Web Design, Database Design</li>
-<li><span style="font-weight: bold">Activities:</span> Technology Club, Thinkering Group, Robotics Team, Swimming&amp;Diving Team</li>
+<li><span style="font-weight: bold">Activities:</span> Technology Club, Thinkering Group, Student Council, Robotics Team, Swimming&amp;Diving Team</li>
 </ul>',"");
 
 ?>
@@ -184,6 +184,13 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
 	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
 	</ul>',"http://ncptech.co.cc");
+
+
+	position("Student Council at Northside College Prep","Chicago, IL","Webmaster","9/12-Present",'
+	<ul>
+	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
+	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
+	</ul>',"http://northsideprep.org/ncphs/activities/clubs/scouncil/");
 	
 	
 	position("CookItFor.Us","Chicago, IL","Intern","6/11-9/11",'
@@ -246,7 +253,7 @@ iprogram('Linux/UNIX System Administration','40');
 			project('Java Game of Life','','https://github.com/erict15/whoops');
 			project('CS331 Data Structures','','https://github.com/erict15/cs331');
 			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/erict15/cv-erictendian');
-			project('Tech Squared','http://et15.co.cc','');
+			project('NCPHS Student Council','northsideprep.org/ncphs/activities/clubs/scouncil/','');
 		?>
 		</ul>
 		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/erict15">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
