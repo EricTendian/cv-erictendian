@@ -7,7 +7,7 @@ I decided to turn my resume into a website to address these concerns. This makes
 
 #Visit
 
-Live at [cv.philipithomas.com](http://cv.philipithomas.com).
+Live at [et15.co.cc/cv](http://et15.co.cc/cv/).
 
 #Building Your Own
 
