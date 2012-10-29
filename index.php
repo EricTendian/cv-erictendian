@@ -145,71 +145,90 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
     </div> <!-- end row -->
     <?php
 
-    position("ExT Web Solutions","Chicago, IL","Founder","4/12-Present",'
+    position("ExT Web Solutions","Chicago, IL","Founder and CEO","4/12-Present",'
 	<ul>
-	<li>Bacon ipsum dolor sit amet short ribs turducken turkey, beef ball tip andouille tail spare ribs biltong ham leberkas tri-tip salami tongue jowl.</li>
+	<li>Worked with individuals and organizations to create websites, databases, manage social media, and other services to ensure long-term growth and success.</li>
+	<li>Managed a team of eight designers, developers, consultants, and marketers to ensure client satisfaction and drive revenue growth.</li>
 	</ul>',"http://extweb.tk");
 
 
 	position("Northside College Prep","Chicago, IL","Web Developer and Technician","6/12-Present",'
 	<ul>
-	<li>Frankfurter ground round bresaola jowl beef ribs, venison swine pork chop pork loin shankle bacon drumstick. </li>
-	<li>Pancetta pork ham hock salami pork belly ribeye strip steak turducken sausage pig brisket venison.</li>
+	<li>Designed and developed a course registration in Drupal, allowing students to register for activities of their choice on a weekly basis.</li>
+	<li>Assisted the technology department in upgrading their server infrastructure to support the new registration system.</li>
 	</ul>','http://northsideprep.org');
 	
 	position("Jokes4Miles","Chicago, IL","IT Consultant","5/12-Present",'
 	<ul>
-	<li>Filet mignon ball tip meatball bacon boudin turducken venison pork belly pig capicola rump ham hock.</li>
-	<li>Tenderloin jerky ham hock, fatback meatloaf tongue brisket shoulder ribeye pork belly.</li>
-	<li>Brisket beef kielbasa pig prosciutto leberkas jerky turducken ground round andouille.</li>
+	<li>Consulted management on various technical issues and gave specific advice on implementing new technologies.</li>
+	<li>Designed and implemented their joke database, following standard database design practices to ensure a clean and efficient schema.</li>
+	<li>Managed their web hosting infrastructure and networking, minimizing downtime and maximizing speed.</li>
 	</ul>', "http://www.jokes4miles.com");
 
 	position("YSFlight Headquarters","New York, NY","Webmaster/Web Developer","1/11-Present",'
 	<ul>
-	<li>Hamburger pastrami turkey bresaola. Tail tenderloin beef bacon t-bone pork loin tongue hamburger sausage beef ribs corned beef swine shoulder.</li>
-	<li>Chuck biltong doner, ham hock jerky brisket rump ham strip steak.</li>
-	<li>Tail bacon corned beef meatball biltong beef ribs.</li>
+	<li>Developed and implemented a completely revamped website with a full scope of features, all dedicated to the benefit of the YSFlight community.<br/>Features include:</li>
+	<ul>
+	<li>Comprehensive content submission functionality</li>
+	<li>Addon download center, with custom search and categorization functions</li>
+	<li>Event calendar and RSVP system</li>
+	<li>Multimedia hub, with an area for both screenshots and video</li>
+	<li>Site blog and news feed</li>
+	<li>phpBB discussion forum</li>
+	<li>Drupal backend with forum integration</li>
+	</ul>
+	<li>Managed the site hosting, maximizing the performance for the available resources to drive up service value.</li>
+	<li>Served as a forum administrator/moderator, keeping discussions lively and civil.</li>
 	</ul>',"http://ysfhq.com");
 	
 
 	position("Project ARC","Chicago, IL","Webmaster","10/11-Present",'
 	<ul>
-	<li>Pancetta shankle pig leberkas pork loin spare ribs pork belly pork chop shank flank boudin.</li>
-	<li>Kielbasa turkey shoulder filet mignon bresaola t-bone meatball bacon corned beef ribeye.</li>
+	<li>Updated the Project ARC website with new content, as well as occasional feature additions. Worked with a designer to revamp the website and migrate to a CMS.</li>
+	<li>Planned and executed social media campaigns to help drive donations above organizational goals.</li>
 	</ul>',"http://www.arcnp.org");
 	
 	
 	position("Tech<sup>2</sup> at Northside College Prep","Chicago, IL","Founder and President","3/11-Present",'
 	<ul>
-	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
-	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
+	<li>Planned club meetings and activities with other staff members to increase participation.</li>
+	<li>Taught other students the basics of web development and design, with additional one-on-one help.</li>
 	</ul>',"http://ncptech.co.cc");
 
 
 	position("Student Council at Northside College Prep","Chicago, IL","Webmaster","9/12-Present",'
 	<ul>
-	<li>Venison shoulder bacon pork, pork loin turducken ham hock short loin hamburger tenderloin tail.</li>
-	<li>Brisket kielbasa andouille, jowl shank tail salami.</li>
+	<li>Revamped website with added resources for students and expanded functionality.</li>
+	<li>Utilized social media outlets to market council activities, driving additional student engagement.</li>
 	</ul>',"http://northsideprep.org/ncphs/activities/clubs/scouncil/");
 	
 	
 	position("CookItFor.Us","Chicago, IL","Intern","6/11-9/11",'
 	<ul>
-	<li>Ground round pork belly turducken leberkas corned beef pork cow ribeye chicken venison tenderloin meatball beef jowl boudin.</li>
-	<li>Swine bresaola ribeye shankle, turducken turkey pastrami short loin venison cow short ribs prosciutto doner.</li>
-	<li>Turducken venison meatball, shoulder tenderloin frankfurter kielbasa pig sirloin pastrami.</li>
+	<li>Developed a Javascript plugin to allow content creators to interface with CookItForUs functionality.</li>
+	<li>Created a checkout system in CodeIgniter to allow users to buy goods quickly and easily, directly impacting revenue.</li>
+	<li>Fixed site bugs, implemented and tested new features, ensuring a satisfying user experience.</li>
 	</ul>',"http://cookitfor.us");
 	
 	
-	position("CPS TechCrew at Northside College Prep","Chicago, IL","IT Technician","4/11-5/12","","");
+	position("CPS TechCrew at Northside College Prep","Chicago, IL","IT Technician","4/11-5/12",'
+	<ul>
+	<li>Solved technical issues and maintained the school\'s fleet of computers, lowering IT replacement costs and increasing productivity.</li>
+	<li>Conducted penetration testing on servers and other network infrastructure to ensure the highest levels of security.</li>
+	</ul>',"");
 	
 	
    	position("Indo-American Center","Chicago, IL","Tutor","7/10-10/11",'
 	<ul>
-	<li>Fatback pastrami short loin leberkas swine, jowl pig hamburger tri-tip jerky ribeye tail.</li>
-	<li>Ground round corned beef kielbasa salami chuck.</li>
+	<li>Worked one-on-one with students to give additional support, resulting in increased test scores and overall understanding.</li>
+	<li>Assisted with various technical issues in the computer lab.</li>
 	</ul>',"http://www.indoamerican.org");
 
+
+   	position("Tendian Tech Support","Chicago, IL","Founder","6/08-4/12",'
+   	<ul>
+   	<li>Provided technical support services to various individuals and organizations.</li>
+   	</ul>',"")
 
            ?>
     
@@ -300,6 +319,7 @@ iprogram('Linux/UNIX System Administration','40');
 
       <footer style="padding-top: 20px;">
 	<hr />
+      <p style="text-align: center">References available upon request</p>
       <p style="text-align: center">&copy; <a href="#">Eric Tendian</a> 2012</p>
       </footer>      
 
