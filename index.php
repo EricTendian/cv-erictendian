@@ -154,7 +154,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 
 	position("Northside College Prep","Chicago, IL","Web Developer and Technician","6/12-Present",'
 	<ul>
-	<li>Designed and developed a course registration in Drupal, allowing students to register for activities of their choice on a weekly basis.</li>
+	<li>Designed and developed a course registration system in Drupal, allowing students to register for activities of their choice on a weekly basis.</li>
 	<li>Assisted the technology department in upgrading their server infrastructure to support the new registration system.</li>
 	</ul>','http://northsideprep.org');
 	
@@ -268,8 +268,8 @@ iprogram('Linux/UNIX System Administration','40');
 		<ul>
 		<?php
 			project('EcoMillion','#','');
-			project('YSChat','','https://github.com/erict15/whoops');
-			project('Java Game of Life','','https://github.com/erict15/whoops');
+			project('YSChat','','https://github.com/erict15/yschat-java');
+			project('Java Game of Life','','https://github.com/erict15/game-of-life');
 			project('CS331 Data Structures','','https://github.com/erict15/cs331');
 			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/erict15/cv-erictendian');
 			project('NCPHS Student Council','northsideprep.org/ncphs/activities/clubs/scouncil/','');
