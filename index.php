@@ -60,7 +60,7 @@
             </ul>
             <div class="nav-collapse collapse pull-right">
             <ul class="nav">
-              <li><a href="http://eric.ftp.sh" target="_blank>">Homepage</a></li>
+              <li><a href="http://erictendian.tk" target="_blank>">Homepage</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   Links <i class="caret"></i>
@@ -91,7 +91,7 @@
       <h1 style="padding: 10px 0px; text-align: center; font-size: 60px">Eric Tendian</h1>
 	<span class="" style="text-align: center;"> 
 		<address>
-		<a href="http://eric.ftp.sh" target="_blank">eric.ftp.sh</a><br />
+		<a href="http://erictendian.tk" target="_blank">erictendian.tk</a><br />
 		<a href="mailto:erictendian@gmail.com">erictendian@gmail.com</a><br />
 		<a>312.476.9235</a>
 		</address>
