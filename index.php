@@ -182,7 +182,7 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	</ul>',"http://ysfhq.com");
 	
 
-	position("Project ARC","Chicago, IL","Webmaster","10/11-Present",'
+	position("Project ARC","Chicago, IL","Webmaster","10/11-12/12",'
 	<ul>
 	<li>Updated the Project ARC website with new content, as well as occasional feature additions. Worked with a designer to revamp the website and migrate to a CMS.</li>
 	<li>Planned and executed social media campaigns to help drive donations above organizational goals.</li>
