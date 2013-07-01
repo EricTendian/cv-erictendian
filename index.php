@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -24,18 +23,14 @@
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
-	<script type="text/javascript">
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-30674963-4']);
-	  _gaq.push(['_setDomainName', 'et15.co.cc']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+	  ga('create', 'UA-30674963-5', 'erictendian.tk');
+	  ga('send', 'pageview');
 
 	</script>
   
@@ -68,8 +63,8 @@
 				
                 <ul class="dropdown-menu">
                   <li><a href="http://linkedin.com/in/erictendian" target="_blank">LinkedIn</a></li>
-                  <li><a href="http://github.com/erict15" target="_blank">Github</a></li>
-                  <li><a href="http://twitter.com/erict15" target="_blank">Twitter</a></li>
+                  <li><a href="http://github.com/EricTendian" target="_blank">Github</a></li>
+                  <li><a href="http://twitter.com/EricTendian" target="_blank">Twitter</a></li>
                 </ul>
               </li>
               <li><a href="resume.pdf">Download PDF</a></li>          
@@ -110,7 +105,7 @@
           </div> 
           <div class="row">
       
-      <div class="span12">Eric Tendian is a senior at Northside College Prep H.S. He is the founder and CEO of ExT Web Solutions, as well as a web developer for his high school. He volunteers at multiple organizations where he fills the role of webmaster. He plans to work in webapp development after college graduation, and is currently seeking educational and employment opportunities.</div>
+      <div class="span12">Eric is a dedicated web developer seeking a part-time position or internship/apprenticeship in a technology-oriented company. He is eager to create innovative solutions that result in long-term success, and excited to take on challenges and work under pressure. He is very attentive to detail. In addition to his role as a web developer, he is an undergraduate at the Illinois Institute of Technology where he is majoring in Information Technology and Management, with a specialization in Web Design and Application Development.</div>
     </div> 
 
       </section>
@@ -123,7 +118,10 @@
       </div>
     </div> <!-- end row -->
 <?php
-position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/13",'
+
+position("Illinois Institute of Technology","Chicago, IL","Information Technology &amp; Management","8/13-Present",'',"http://iit.io");
+
+position("Northside College Preparatory HS","Chicago, IL","Graduate","9/09-6/13",'
 <ul>
 <li><span style="font-weight: bold">Academic Honors:</span> AP Scholar, Honor Roll</li>
 <li><span style="font-weight: bold">Relevant Coursework:</span> Elements of Digital Systems, Data Structures, Web Design, Database Design</li>
@@ -145,29 +143,9 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
     </div> <!-- end row -->
     <?php
 
-    position("ExT Web Solutions","Chicago, IL","Founder and CEO","4/12-Present",'
+	position("YSFlight Headquarters","Chicago, IL","Chief Information Officer &amp; Head Administrator","1/11-Present",'
 	<ul>
-	<li>Worked with individuals and organizations to create websites, databases, manage social media, and other services to ensure long-term growth and success.</li>
-	<li>Managed a team of eight designers, developers, consultants, and marketers to ensure client satisfaction and drive revenue growth.</li>
-	</ul>',"http://extweb.tk");
-
-
-	position("Northside College Prep","Chicago, IL","Web Developer and Technician","6/12-Present",'
-	<ul>
-	<li>Designed and developed a course registration system in Drupal, allowing students to register for activities of their choice on a weekly basis.</li>
-	<li>Assisted the technology department in upgrading their server infrastructure to support the new registration system.</li>
-	</ul>','http://northsideprep.org');
-	
-	position("Jokes4Miles","Chicago, IL","IT Consultant","5/12-Present",'
-	<ul>
-	<li>Consulted management on various technical issues and gave specific advice on implementing new technologies.</li>
-	<li>Designed and implemented their joke database, following standard database design practices to ensure a clean and efficient schema.</li>
-	<li>Managed their web hosting infrastructure and networking, minimizing downtime and maximizing speed.</li>
-	</ul>', "http://www.jokes4miles.com");
-
-	position("YSFlight Headquarters","New York, NY","Webmaster/Web Developer","1/11-Present",'
-	<ul>
-	<li>Developed and implemented a completely revamped website with a full scope of features, all dedicated to the benefit of the YSFlight community.<br/>Features include:</li>
+	<li>Developed and implemented a completely revamped website with a full scope of features, all dedicated to revitalizing the YSFlight community.<br/>Features include:</li>
 	<ul>
 	<li>Comprehensive content submission functionality</li>
 	<li>Addon download center, with custom search and categorization functions</li>
@@ -178,8 +156,31 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	<li>Drupal backend with forum integration</li>
 	</ul>
 	<li>Managed the site hosting, maximizing the performance for the available resources to drive up service value.</li>
-	<li>Served as a forum administrator/moderator, keeping discussions lively and civil.</li>
+	<li>Served as head administrator, keeping the community lively and civil.</li>
 	</ul>',"http://ysfhq.com");
+
+
+	position("Northside College Prep","Chicago, IL","Student Technology Coordinator","6/12-6/13",'
+	<ul>
+	<li>Redesigned the daily email announcements and created a more efficient way to manage them, delivering more organized information to students and staff.</li>
+	<li>Designed and developed a course registration system in Drupal, allowing students to register for activities of their choice on a weekly basis.</li>
+	<li>Managed the school\'s social media presence, keeping students updated via Facebook and Twitter.
+	</ul>','http://northsideprep.org');
+
+
+    position("Tendian.io","Chicago, IL","Consultant","4/12-Present",'
+	<ul>
+	<li>Worked with individuals and organizations to create websites, databases, manage social media, and other services to ensure long-term growth and success.</li>
+	<li>Worked with designers, developers, and marketers to ensure client satisfaction and drive revenue growth.</li>
+	</ul>',"http://tendian.io");
+
+
+	position("Jokes4Miles","Chicago, IL","IT Consultant","5/12-Present",'
+	<ul>
+	<li>Consulted management on various technical issues and gave specific advice on implementing new technologies.</li>
+	<li>Designed and implemented their joke database, following standard database design practices to ensure a clean and efficient schema.</li>
+	<li>Managed their web hosting infrastructure and networking, minimizing downtime and maximizing speed.</li>
+	</ul>', "http://www.jokes4miles.com");
 	
 
 	position("Project ARC","Chicago, IL","Webmaster","10/11-12/12",'
@@ -189,14 +190,14 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	</ul>',"http://www.arcnp.org");
 	
 	
-	position("Tech<sup>2</sup> at Northside College Prep","Chicago, IL","Founder and President","3/11-Present",'
+	position("Tech<sup>2</sup> at Northside College Prep","Chicago, IL","Founder and President","3/11-6/13",'
 	<ul>
 	<li>Planned club meetings and activities with other staff members to increase participation.</li>
 	<li>Taught other students the basics of web development and design, with additional one-on-one help.</li>
-	</ul>',"http://ncptech.co.cc");
+	</ul>',"");
 
 
-	position("Student Council at Northside College Prep","Chicago, IL","Webmaster","9/12-Present",'
+	position("Student Council at Northside College Prep","Chicago, IL","Webmaster","9/12-6/13",'
 	<ul>
 	<li>Revamped website with added resources for students and expanded functionality.</li>
 	<li>Utilized social media outlets to market council activities, driving additional student engagement.</li>
@@ -247,17 +248,17 @@ position("Northside College Preparatory HS","Chicago, IL","Senior","Expected 6/1
 	
 	<div class="span8">
 <?php
-iprogram('HTML/CSS','90');
+iprogram('HTML/CSS','80');
 iprogram('PHP','75');
 iprogram('Javascript','70');
 iprogram('Wordpress','50');
 iprogram('Drupal','60');
 iprogram('Python','50');
 iprogram('Java','55');
-iprogram('SQL Databases','40');
+iprogram('SQL Databases','60');
 iprogram('Adobe CS6','40');
-iprogram('Git','30');
-iprogram('Linux/UNIX System Administration','40');
+iprogram('Git','40');
+iprogram('Linux/UNIX System Administration','50');
 
 ?>
 </div>
@@ -267,15 +268,15 @@ iprogram('Linux/UNIX System Administration','40');
 		<hr />
 		<ul>
 		<?php
-			project('EcoMillion','#','');
-			project('YSChat','','https://github.com/erict15/yschat-java');
-			project('Java Game of Life','','https://github.com/erict15/game-of-life');
-			project('CS331 Data Structures','','https://github.com/erict15/cs331');
-			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/erict15/cv-erictendian');
-			project('NCPHS Student Council','northsideprep.org/ncphs/activities/clubs/scouncil/','');
+			project('Svbtle Tumblr theme','http://erictendian.tk/','https://github.com/EricTendian/svbtle-tumblr');
+			project('YSChat','','https://github.com/EricTendian/yschat-java');
+			project('Java Game of Life','','https://github.com/EricTendian/game-of-life');
+			project('CS331 Data Structures','','https://github.com/EricTendian/cs331');
+			project('Curriculum Vitae',$_SERVER['REQUEST_URI'],'https://github.com/EricTendian/cv-erictendian');
+			project('NCPHS Student Council','http://northsideprep.org/ncphs/activities/clubs/scouncil/','');
 		?>
 		</ul>
-		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/erict15">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
+		<a class="pull-right btn btn-small btn-inverse" href="http://github.com/EricTendian">Github Profile <i class="icon-arrow-right icon-white"></i></a><br />
 	</div>
 </div>
 </div>
@@ -295,9 +296,9 @@ iprogram('Linux/UNIX System Administration','40');
 	<?php
 	
 	extra('Awards','First Place in Microsoft Bliink Web Design Contest (IL division)<br />Second Place in CPS Capstone Fair<br />PTC Design Award and Judges Award at 2011 Illinois FTC Robotics Competition');
-	extra('Language','Basic Japanese');
-	extra('Organizations','FreeGeek Chicago');
-	extra('Interests','Aviation<br />Startups<br />Design<br />Swimming');
+	extra('Language','Native English Speaker');
+	extra('Organizations','Illinois Technology Association, US FIRST, various meetups');
+	extra('Interests','Aviation, robotics, flight sims, blogging, startups, swimming, public transit, graphic design');
 	
 	?>
 	</div>
@@ -320,7 +321,7 @@ iprogram('Linux/UNIX System Administration','40');
       <footer style="padding-top: 20px;">
 	<hr />
       <p style="text-align: center">References available upon request</p>
-      <p style="text-align: center">&copy; <a href="#">Eric Tendian</a> 2012</p>
+      <p style="text-align: center">&copy; <a href="#">Eric Tendian</a> 2013</p>
       </footer>      
 
     </div> <!-- /container -->
@@ -328,7 +329,7 @@ iprogram('Linux/UNIX System Administration','40');
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script src="assets/js/bootstrap.js"></script>
 
   </body>
