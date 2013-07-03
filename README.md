@@ -7,7 +7,7 @@ I decided to turn my resume into a website to address these concerns. This makes
 
 #Visit
 
-Live at [cv.erictendian.tk](http://cv.erictendian.tk/).
+Live at [cv.eric.tendian.io](http://cv.eric.tendian.io/).
 
 #Building Your Own
 
