@@ -22,14 +22,14 @@
     <![endif]-->
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <!--<link rel="shortcut icon" href="assets/ico/favicon.ico">-->
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-30674963-5', 'erictendian.tk');
+	  ga('create', 'UA-30674963-5', 'tendian.io');
 	  ga('send', 'pageview');
 
 	</script>
@@ -55,7 +55,7 @@
             </ul>
             <div class="nav-collapse collapse pull-right">
             <ul class="nav">
-              <li><a href="http://erictendian.tk" target="_blank>">Homepage</a></li>
+              <li><a href="http://eric.tendian.io/" target="_blank>">Homepage</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   Links <i class="caret"></i>
@@ -67,7 +67,7 @@
                   <li><a href="http://twitter.com/EricTendian" target="_blank">Twitter</a></li>
                 </ul>
               </li>
-              <li><a href="resume.pdf">Download PDF</a></li>          
+              <li><a href="https://s3.amazonaws.com/tendian.io/resume.pdf">Download PDF</a></li>          
             </ul>
             </div>
           </div>
@@ -86,7 +86,7 @@
       <h1 style="padding: 10px 0px; text-align: center; font-size: 60px">Eric Tendian</h1>
 	<span class="" style="text-align: center;"> 
 		<address>
-		<a href="http://erictendian.tk" target="_blank">erictendian.tk</a><br />
+		<a href="http://eric.tendian.io" target="_blank">eric.tendian.io</a><br />
 		<a href="mailto:erictendian@gmail.com">erictendian@gmail.com</a><br />
 		<a>312.476.9235</a>
 		</address>
@@ -268,7 +268,7 @@ iprogram('Linux/UNIX System Administration','50');
 		<hr />
 		<ul>
 		<?php
-			project('Svbtle Tumblr theme','http://erictendian.tk/','https://github.com/EricTendian/svbtle-tumblr');
+			project('Svbtle Tumblr theme','http://eric.tendian.io/','https://github.com/EricTendian/svbtle-tumblr');
 			project('YSChat','','https://github.com/EricTendian/yschat-java');
 			project('Java Game of Life','','https://github.com/EricTendian/game-of-life');
 			project('CS331 Data Structures','','https://github.com/EricTendian/cs331');
