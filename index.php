@@ -352,7 +352,7 @@ function position($company,$city,$job,$dates,$blob,$link) {
 		<div class="row" style="padding: 35px 0 4px 0;">
 			<div class="span8"><h4 style="margin: 0">'.$company;
 				if (!empty($link)) {
-					echo ' <a href="'.$link.'" target="_BLANK"><span class="badge">Website <i class="icon-arrow-right icon-white"></i></span></a>';
+					echo ' <a href="'.$link.'" target="_blank"><span class="badge">Website <i class="icon-arrow-right icon-white"></i></span></a>';
 				}
 			echo '</h4> 
 			
@@ -404,7 +404,7 @@ function project($name,$look,$code) {
 	
 	if (!empty($look)) {
 		// link to look at completed project
-		echo '<a href="'.$look.'" target="_BLANK" >'.$name.'</a>';
+		echo '<a href="'.$look.'" target="_blank">'.$name.'</a>';
 	}
 	else {
 		echo $name;
@@ -412,7 +412,7 @@ function project($name,$look,$code) {
 	
 	if (!empty($code)) {
 		// link to look at completed project
-		echo ' <a href="'.$code.'" target="_BLANK""><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i></span></a>';
+		echo ' <a href="'.$code.'" target="_blank"><span class="badge badge-info">Code <i class="icon-arrow-right icon-white"></i></span></a>';
 	}
 	echo '</li>';
 }
